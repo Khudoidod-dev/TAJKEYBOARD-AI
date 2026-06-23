@@ -35,9 +35,9 @@
 <td align="center"><b>🌐 Перевод</b></td>
 </tr>
 <tr>
-<td><img src="screenshots/keyboard.png" width="240"/></td>
-<td><img src="screenshots/login.png" width="240"/></td>
-<td><img src="screenshots/translate.png" width="240"/></td>
+<td><img src="screenshots/keyboard.jpg" width="240"/></td>
+<td><img src="screenshots/login.jpg" width="240"/></td>
+<td><img src="screenshots/translate.jpg" width="240"/></td>
 </tr>
 </table>
 </div>
