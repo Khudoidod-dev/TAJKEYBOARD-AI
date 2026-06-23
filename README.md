@@ -1,105 +1,208 @@
 <div align="center">
 
+<img src="https://img.shields.io/badge/TAJGROUP-⌨️_TAJKEYBOARD_AI-7C6BFF?style=for-the-badge&labelColor=0a0a14" />
+
+<br><br>
+
 # ⌨️ TAJKEYBOARD AI
 
-### Умная клавиатура с искусственным интеллектом для Android
+### 🇷🇺 🇬🇧 🇹🇯 🇩🇪 🇫🇷 🇪🇸 🇹🇷 🇵🇱 🇰🇿 🇺🇿 🇺🇦
 
-[![Android](https://img.shields.io/badge/Android-26%2B-green?style=flat-square&logo=android)](https://developer.android.com)
-[![AI Powered](https://img.shields.io/badge/AI-Powered-7C6BFF?style=flat-square&logo=openai&logoColor=white)](https://tajgroup.ru)
-[![License](https://img.shields.io/badge/License-Proprietary-red?style=flat-square)](https://tajgroup.ru)
-[![TAJGROUP](https://img.shields.io/badge/TAJGROUP-tajgroup.ru-blueviolet?style=flat-square)](https://tajgroup.ru)
+**Умная Android-клавиатура нового поколения с искусственным интеллектом**
+
+*Печатай быстрее. Пиши грамотнее. Общайся на любом языке.*
 
 <br>
 
-<img src="https://img.shields.io/badge/-%E2%9C%A6%20AI%20%D0%98%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-7C6BFF?style=for-the-badge" /> <img src="https://img.shields.io/badge/-%E2%89%A3%20%D0%9F%D0%B5%D1%80%D0%B5%D1%84%D1%80%D0%B0%D0%B7-5B4FCF?style=for-the-badge" /> <img src="https://img.shields.io/badge/-%F0%9F%8C%90%20%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4-4338CA?style=for-the-badge" /> <img src="https://img.shields.io/badge/-%F0%9F%92%A1%20T9%20%2B%20AI-3730A3?style=for-the-badge" />
+[![Download APK](https://img.shields.io/badge/⬇_Скачать_APK-v1.0.0-7C6BFF?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Khudoidod-dev/TAJKEYBOARD-AI/releases/latest)
+[![Telegram Bot](https://img.shields.io/badge/🔑_Получить_ключ-Telegram_Bot-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TAJGROUP_License_bot)
+
+<br>
+
+---
 
 </div>
 
+<br>
+
+## 📸 Скриншоты
+
+<div align="center">
+<table>
+<tr>
+<td align="center"><b>⌨️ Клавиатура</b></td>
+<td align="center"><b>🔐 Личный кабинет</b></td>
+<td align="center"><b>🌐 Перевод</b></td>
+</tr>
+<tr>
+<td><img src="screenshots/keyboard.png" width="240"/></td>
+<td><img src="screenshots/login.png" width="240"/></td>
+<td><img src="screenshots/translate.png" width="240"/></td>
+</tr>
+</table>
+</div>
+
+<br>
+
 ---
 
-## 📖 О приложении
+## ✨ Что умеет TAJKEYBOARD AI
 
-**TAJKEYBOARD AI** — Android-клавиатура нового поколения от компании **TAJGROUP**. Совмещает полноценную офлайн-клавиатуру с мощными ИИ-функциями для исправления текста, перефразирования и перевода.
+<table>
+<tr>
+<td width="80" align="center">✦</td>
+<td><b>ИИ-исправление ошибок</b><br>Грамматика, орфография, пунктуация — всё исправляется одним нажатием кнопки. Забудьте про опечатки навсегда.</td>
+</tr>
+<tr>
+<td align="center">≣</td>
+<td><b>Перефразирование текста</b><br>Получите 3 варианта одного и того же текста в разных стилях: формальный (деловой), разговорный (дружеский), краткий (лаконичный).</td>
+</tr>
+<tr>
+<td align="center">🌐</td>
+<td><b>Мгновенный перевод</b><br>Переводите текст прямо в клавиатуре на 11+ языков без переключения в другое приложение. Один клик — и перевод готов.</td>
+</tr>
+<tr>
+<td align="center">💡</td>
+<td><b>Умные подсказки (T9 + AI)</b><br>Словарный T9 работает полностью офлайн на русском, таджикском и английском. AI-режим предлагает продолжение фраз в реальном времени.</td>
+</tr>
+<tr>
+<td align="center">🎨</td>
+<td><b>9 тем оформления</b><br>Material, Тёмная, AMOLED, Gboard, Samsung, SwiftKey, Синяя, Зелёная, Океан — выберите свой стиль.</td>
+</tr>
+<tr>
+<td align="center">📋</td>
+<td><b>Буфер обмена</b><br>История копирований, закрепление важных записей, быстрая вставка одним нажатием.</td>
+</tr>
+<tr>
+<td align="center">😀</td>
+<td><b>Эмодзи</b><br>Полная панель эмодзи с категориями и быстрым поиском.</td>
+</tr>
+<tr>
+<td align="center">🔐</td>
+<td><b>Личный кабинет</b><br>Статистика использования ИИ, реферальная система, управление подпиской и ключом активации.</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
-## ✨ Возможности
+## 🌍 Поддерживаемые языки и раскладки
 
-| Функция | Описание |
-|---------|----------|
-| ✦ **ИИ-исправление** | Грамматика, орфография, пунктуация — одним нажатием |
-| ≣ **Перефразирование** | 3 варианта: формальный, разговорный, краткий |
-| 🌐 **Перевод** | Мгновенный перевод на 11 языков прямо в клавиатуре |
-| 💡 **Умные подсказки** | T9 офлайн (словарь) + AI-продолжение фраз |
-| 🎨 **9 тем** | Material, AMOLED, Gboard, Samsung, SwiftKey и другие |
-| 📋 **Буфер обмена** | История, закрепление, быстрая вставка |
-| 😀 **Эмодзи** | Полная панель с категориями |
-| 🔐 **Личный кабинет** | Статистика, реферальная система, управление ключом |
+| Флаг | Язык | Раскладка | T9 офлайн |
+|:----:|------|-----------|:---------:|
+| 🇷🇺 | Русский | ЙЦУКЕН | ✅ ~400 слов |
+| 🇬🇧 | English | QWERTY | ✅ ~250 слов |
+| 🇹🇯 | Тоҷикӣ | Тоҷикӣ | ✅ ~150 слов |
+| 🇺🇦 | Українська | ЙЦУКЕН | — |
+| 🇩🇪 | Deutsch | QWERTZ | — |
+| 🇫🇷 | Français | AZERTY | — |
+| 🇪🇸 | Español | QWERTY | — |
+| 🇹🇷 | Türkçe | QWERTY | — |
+| 🇵🇱 | Polski | QWERTY | — |
+| 🇰🇿 | Қазақша | ЙЦУКЕН | — |
+| 🇺🇿 | O'zbek | QWERTY | — |
 
----
-
-## 🌍 Поддерживаемые языки
-
-| Раскладка | Язык |
-|-----------|------|
-| 🇷🇺 | Русский |
-| 🇬🇧 | English |
-| 🇹🇯 | Тоҷикӣ |
-| 🇺🇦 | Українська |
-| 🇩🇪 | Deutsch |
-| 🇫🇷 | Français |
-| 🇪🇸 | Español |
-| 🇹🇷 | Türkçe |
-| 🇵🇱 | Polski |
-| 🇰🇿 | Қазақша |
-| 🇺🇿 | O'zbek |
+<br>
 
 ---
 
 ## 📲 Установка
 
-1. Скачайте APK из [Releases](https://github.com/Khudoidod-dev/TAJKEYBOARD-AI/releases)
-2. Откройте файл на телефоне и установите
-3. Перейдите в **Настройки → Язык и ввод → Клавиатуры**
-4. Включите **TAJKEYBOARD AI**
-5. Выберите её как клавиатуру по умолчанию
+```
+1. Скачайте APK → кнопка "Скачать APK" выше
+2. Откройте файл на телефоне
+3. Разрешите установку из неизвестных источников
+4. Откройте приложение TAJKEYBOARD AI
+5. Следуйте инструкциям (2 шага):
+   → Включите клавиатуру в настройках Android
+   → Выберите TAJKEYBOARD AI по умолчанию
+6. Готово! Откройте любое приложение и печатайте
+```
+
+**Минимальные требования:** Android 8.0+ (API 26)
+
+<br>
 
 ---
 
-## 🔑 Активация ИИ
+## 🔑 Активация ИИ-функций
 
-Для использования ИИ-функций необходим ключ активации:
+Клавиатура работает без ключа (раскладки, T9 офлайн, эмодзи, буфер). Для ИИ-функций нужен ключ:
 
-1. Получите ключ у бота: [@TAJGROUP_License_bot](https://t.me/TAJGROUP_License_bot)
-2. Откройте **Настройки → Личный кабинет**
-3. Введите ключ
+| Шаг | Действие |
+|:---:|----------|
+| 1️⃣ | Откройте [@TAJGROUP_License_bot](https://t.me/TAJGROUP_License_bot) в Telegram |
+| 2️⃣ | Нажмите «Получить ключ» → выберите «Клавиатура AI» |
+| 3️⃣ | Подпишитесь на канал и группу |
+| 4️⃣ | Получите ключ (формат: `XXXX-XXXX-XXXX-XXXX`) |
+| 5️⃣ | В приложении: Настройки → Личный кабинет → Введите ключ |
 
----
-
-## 🛠 Технологии
-
-- **Язык:** Kotlin
-- **Min SDK:** Android 8.0 (API 26)
-- **ИИ:** LLM через облачный API
-- **Архитектура:** InputMethodService + Coroutines
-- **Сеть:** OkHttp
+<br>
 
 ---
 
-## 📞 Контакты
+## 🛠 Технические характеристики
+
+| Параметр | Значение |
+|----------|----------|
+| Платформа | Android |
+| Min SDK | 26 (Android 8.0 Oreo) |
+| Target SDK | 34 (Android 14) |
+| Язык | Kotlin |
+| AI модель | LLM (облако) |
+| Офлайн T9 | Встроенный словарь (~800 слов) |
+| Размер APK | ~10 MB |
+| Архитектура | InputMethodService + Coroutines |
+| Сеть | OkHttp 4.12 |
+| UI | Material 3 |
+
+<br>
+
+---
+
+## 🔒 Безопасность и приватность
+
+- 🔐 Клавиатура **не собирает** и **не хранит** введённый текст
+- 🌐 ИИ-запросы отправляются только при нажатии кнопок AI
+- 📵 Офлайн-функции работают без интернета
+- 🔑 Ключ привязывается к устройству
+
+<br>
+
+---
+
+## 📞 Контакты и ссылки
+
+<div align="center">
 
 | | |
-|---|---|
-| 🏢 Компания | **TAJGROUP** |
-| 🌐 Сайт | [tajgroup.ru](https://tajgroup.ru) |
-| 🤖 Бот | [@TAJGROUP_License_bot](https://t.me/TAJGROUP_License_bot) |
-| 💬 Чат | [@tajgroup_chat](https://t.me/tajgroup_chat) |
-| 📢 Канал | [@tajgroup_ru](https://t.me/tajgroup_ru) |
+|:---:|:---|
+| 🏢 | **TAJGROUP** |
+| 🌐 | [tajgroup.ru](https://tajgroup.ru) |
+| 🤖 | [@TAJGROUP_License_bot](https://t.me/TAJGROUP_License_bot) |
+| 📢 | [@tajgroup_ru](https://t.me/tajgroup_ru) |
+| 💬 | [@tajgroup_chat](https://t.me/tajgroup_chat) |
+| 📧 | dev@tajgroup.ru |
+
+</div>
+
+<br>
 
 ---
 
 <div align="center">
 
-**© 2024-2026 TAJGROUP. Все права защищены.**
+<br>
+
+**⌨️ TAJKEYBOARD AI** — печатай умнее
+
+<br>
+
+`© 2024-2026 TAJGROUP. Все права защищены.`
+
+<br>
+
+<img src="https://img.shields.io/badge/Made_with_❤️_by-TAJGROUP-7C6BFF?style=flat-square" />
 
 </div>
