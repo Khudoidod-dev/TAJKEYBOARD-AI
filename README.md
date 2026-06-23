@@ -31,8 +31,8 @@
 <table>
 <tr>
 <td align="center"><b>⌨️ Клавиатура</b></td>
-<td align="center"><b>🔐 Личный кабинет</b></td>
 <td align="center"><b>🌐 Перевод</b></td>
+<td align="center"><b>🔐 Личный кабинет</b></td>
 </tr>
 <tr>
 <td><img src="screenshots/keyboard.jpg" width="240"/></td>
